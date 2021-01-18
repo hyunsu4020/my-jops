@@ -5,13 +5,13 @@ body {
 
 .file-upload {
     margin: 0 auto;
-    width: 50vw;
-    height: 50vw;
+    width: 48rem;
+    height: 53rem;
     margin: 0uto;
-    border-radius: 10px;
+    border-radius: 2rem;
     border: solid 1.5px #f6f7fa;
     background-color: #f6f7fa;
-    background-image: url('back2.jpg');
+    background-image: url(back2.jpg);
 }
 
 .file-upload-btn {
@@ -58,16 +58,16 @@ body {
 }
 
 .image-upload-wrap {
-    margin-top: 8vw;
-    margin-left: 5.9vw;
+    margin-top: 8rem;
+    margin-left: 7.7rem;
     border: 0.5vw solid #000000;
     position: relative;
-    border-top-left-radius: 3vw;
-    border-top-right-radius: 3vw;
-    border-bottom-right-radius: 3vw;
-    border-bottom-left-radius: 3vw;
-    width: 36vw;
-    height: 28vw;
+    border-top-left-radius: 3rem;
+    border-top-right-radius: 3rem;
+    border-bottom-right-radius: 3rem;
+    border-bottom-left-radius: 3rem;
+    width: 31rem;
+    height: 26rem;
     background-image: url(back2.jpg);
 }
 
@@ -141,18 +141,18 @@ body {
 }
 
 .navbar-brand {
-    font-size: 2vw;
+    font-size: 2rem;
 }
 
 .insta-link {
     color: black;
-    font-size: 1.2vw;
+    font-size: 1.5rem;
     text-decoration: none;
 }
 
 .upload {
-    width: 15%;
-    margin-top: 11vw;
+    width: 5rem;
+    margin-top: 10rem;
 }
 
 .navbar-toggler-icon {
@@ -166,36 +166,43 @@ body {
 }
 
 .file-upload-image {
-    max-height: 30vw;
-    max-width: 30vw;
-    margin-top: -1vw;
-    border-top-left-radius: 4vw;
-    border-top-right-radius: 4vw;
-    border-bottom-right-radius: 4vw;
-    border-bottom-left-radius: 4vw;
+    max-height: 27rem;
+    max-width: 27rem;
+    border-top-left-radius: 4rem;
+    border-top-right-radius: 4rem;
+    border-bottom-right-radius: 4rem;
+    border-bottom-left-radius: 4rem;
 }
 
 .TEST {
-    margin-left: 14vw;
-    margin-top: 3vw;
-    font-size: 1.8vw;
+    margin-left: 12.54rem;
+    margin-top: 6rem;
+    font-size: 1.8rem;
 }
 
 .face {
-    font-size: 1.8vw;
-    margin-right: 15vw;
+    font-size: 1.3rem;
+    margin-right: 14rem;
 }
 
 .result-message {
-    background-color: #3991dc78;
-    margin: 4% 33%;
-    border: 2px solid #3991dc78;
-    border-radius: 2vw;
-    font-size: 1.5vw;
+    background-color: #ffffff;
+    margin: 1rem 16rem;
+    border: 2px solid #efefef;
+    border-radius: 2rem;
+    font-size: 1.5rem;
+}
+
+.result-message1 {
+    font-size: 1.3rem;
+}
+
+.result-message2 {
+    font-size: 1.3rem;
 }
 
 #navbarNav {
-    font-size: 1.5vw;
+    font-size: 1rem;
 }
 
 .image-dropping,
@@ -205,6 +212,24 @@ body {
 
 .data {
     font-size: 0%;
+}
+
+.at-share-btn-elements {
+    box-sizing: border-box;
+    margin-top: 1vw;
+}
+
+.remove-image {
+    border-radius: 3rem;
+    background: #768a78ed;
+    border-color: #444e48;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    width: 10rem;
+}
+
+.at-style-responsive .at-share-btn {
+    margin: 0.2rem;
 }
 
 
