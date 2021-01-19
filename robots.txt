@@ -1,18 +1,3 @@
 User-agent: *
-Disallow: /owner
-Disallow: /manage
-Disallow: /admin
-Disallow: /oldadmin
-Disallow: /search
-Disallow: /m/search
-Disallow: /m/admin
-Disallow: /like
-Allow: / sitemap: https://personface.netlify.app/sitemap.xml
+Allow:/
 
- 
-User-agent: Mediapartners-Google
-Allow: / sitemap: https://personface.netlify.app/sitemap.xml
-
-
-User-agent: bingbot
-Crawl-delay: 30
