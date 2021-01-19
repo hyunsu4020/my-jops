@@ -1,2 +1,0 @@
-User-agent: *
-Allow:/sitemap: http//personface.netlify.com/sitemap.xml
