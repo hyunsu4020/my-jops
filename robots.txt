@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://personface.netlify.app/sitemap.xml
+Sitemap: https://
+www.personface.cf/sitemap.xml
