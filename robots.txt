@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.personface.cf/sitemap.xml
+Sitemap: https://personface.cf/sitemap.xml
