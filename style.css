@@ -219,6 +219,10 @@ body {
     margin-right: -3rem;
 }
 
+.youtube-link{
+    color: red;
+    font-size: 1.5rem;
+}
 
 /* On screens that are 600px wide or less, make the menu links stack on top of each other instead of next to each other */
 
